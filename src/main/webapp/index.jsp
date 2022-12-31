@@ -3,7 +3,7 @@
 <title>Install and Deploy</title>
 </head>
 <body>
-	<h1>HAPPY NEW YEAR!!! WELCOME TO 2023 </h1>
+	<h1>Devops and maven Learners!!! </h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
