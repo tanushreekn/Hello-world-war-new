@@ -3,7 +3,7 @@
 <title>Install and Deploy</title>
 </head>
 <body>
-	<h1>hi this is tanu !!! </h1>
+	<h1>hi this is devops class!!! </h1>
 	<h2>
 		It is now
 		<%= new java.util.Date() %></h2>
